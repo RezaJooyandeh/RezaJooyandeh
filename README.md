@@ -2,6 +2,21 @@
 
 It is a beautiful day to write code.
 
+I am Reza, Group Engineering Manager at [Microsoft Vancouver](https://twitter.com/MicrosoftVan) where I lead the team that crafts 👨🏻‍🎨 the experience of developers 👩‍💻👨🏼‍💻👩🏽‍💻 using  APIs and SDK using Azure Communication Services.
+
+I am super passionate about C# and particularly writing C# code that reads as natural language #code-with-no-comments.
+
+The open source projects that I'm currently focusing on are:
+* [Azure REST APIs](https://github.com/Azure/azure-rest-api-specs)
+* [Azure .NET SDK](https://github.com/Azure/azure-sdk-for-net)
+* [Azure Python SDK](https://github.com/Azure/azure-sdk-for-python)
+* [Azure iOS SDK](https://github.com/Azure/azure-sdk-for-ios)
+* [Azure Java SDK](https://github.com/Azure/azure-sdk-for-java)
+* [Azure JavaScript SDK](https://github.com/Azure/azure-sdk-for-js)
+* [Azure Android SDK](https://github.com/Azure/azure-sdk-for-android)
+
+The best way to connect with me 💬 is through Twitter, [@RezaJooyandeh](https://twitter.com/RezaJooyandeh). 
+
 <!--
 **RezaJooyandeh/RezaJooyandeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
