@@ -6,7 +6,7 @@ I am Reza, Group Engineering Manager at [Microsoft Vancouver](https://twitter.co
 
 People who are close to me know that I write code for things that maybe I should not. I tend to do it where code has been working better than me, like online dating 😋.
 
-I am super passionate about C# and particularly writing C# code that reads as natural language #code-with-no-comments.
+I am super passionate about C# and particularly writing C# code that reads as natural language or domain specific #code-with-no-comments.
 
 The open source projects that I'm currently focusing on are:
 * [Azure REST APIs](https://github.com/Azure/azure-rest-api-specs)
