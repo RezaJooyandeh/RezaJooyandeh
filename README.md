@@ -2,7 +2,7 @@
 
 It is a beautiful day to write code.
 
-I am Reza, Group Engineering Manager at [Microsoft Vancouver](https://twitter.com/MicrosoftVan) where I lead the team that crafts 👨🏻‍🎨 the experience of developers 👩‍💻👨🏼‍💻👩🏽‍💻 using  APIs and SDK using Azure Communication Services.
+I am Reza, Group Engineering Manager at [Microsoft Vancouver](https://twitter.com/MicrosoftVan) 🍁 where I lead the team that crafts 👨🏻‍🎨 the experience of developers 👩‍💻👨🏼‍💻👩🏽‍💻 using  APIs and SDK using Azure Communication Services.
 
 I am super passionate about C# and particularly writing C# code that reads as natural language #code-with-no-comments.
 
