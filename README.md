@@ -17,8 +17,6 @@ The open source projects that I'm currently focusing on are:
 * [Azure JavaScript SDK](https://github.com/Azure/azure-sdk-for-js)
 * [Azure Android SDK](https://github.com/Azure/azure-sdk-for-android)
 
-The best way to connect with me 💬 is through Twitter, [@RezaJooyandeh](https://twitter.com/RezaJooyandeh). 
-
 <!--
 **RezaJooyandeh/RezaJooyandeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
